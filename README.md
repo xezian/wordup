@@ -7,3 +7,8 @@ It is what it is,
 and so on!
 
 &#x2767; j
+
+`$ source .venv/bin/activate` starts the venv
+`(.venv)$ pip install requirements.txt` installs the requirements
+
+Easy set up postgres without install with [Postgres.app](https://postgresapp.com/)
